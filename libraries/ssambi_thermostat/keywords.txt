@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map For Ultrasound
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+ThermostatButton	KEYWORD1
+LEDBinaryCounter	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+isOneShotPressed	KEYWORD2
+setValue	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
