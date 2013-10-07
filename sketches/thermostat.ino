@@ -80,7 +80,7 @@ void setup()
   Serial.println(sensors.getResolution());
   
   // initial target temperature
-  INITIAL_TARGET_TEMP = 20;
+  targetTemperature = INITIAL_TARGET_TEMP;
 }
 
 
